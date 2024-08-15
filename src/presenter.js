@@ -1,4 +1,4 @@
-import sumar from "./sumador";
+import { sumar, multiplicar } from "./sumador";
 
 const first = document.querySelector("#primer-numero");
 const second = document.querySelector("#segundo-numero");
